@@ -1,11 +1,13 @@
-The goal of this project is to build a PHP Wordpress website with a MySQL database
+# Purpose
 
-My base OS is Windows 10, and I'll do the following steps to achieve my project:
+## The goal of this project is to build a PHP Wordpress website with a MySQL database
 
-A> Install "Chocolatey" on the PC
+## My base OS is Windows 10, and I'll do the following steps to achieve my project:
 
-B> From Chocolatey, install Virtual box, vagrant and Git
+## A> Install "Chocolatey" on the PC
 
-C> Create a VM with Ubuntu Linux as our Apache server and set up the IP address
+## B> From Chocolatey, install Virtual box, vagrant and Git
 
-D> Follow the steps from Ubuntu website to Install and configure WordPress
+## C> Create a VM with Ubuntu Linux as our Apache server and set up the IP address
+
+## D> Follow the steps from Ubuntu website to Install and configure WordPress
